@@ -1,0 +1,1 @@
+[project]\nname = "genpark-agentic-operational-cost-and-token-auditor-skill"\nversion = "1.0.0"\ndescription = "Tracks token consumption, calculates exact cloud costs, and identifies budget anomalies for agent sessions"\nreadme = "README.md"\nrequires-python = ">=3.9"\ndependencies = []\n
