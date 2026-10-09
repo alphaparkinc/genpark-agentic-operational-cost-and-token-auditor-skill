@@ -1,0 +1,8 @@
+{
+  "name": "genpark-agentic-operational-cost-and-token-auditor-skill",
+  "version": "1.0.0",
+  "description": "Tracks token consumption, calculates exact cloud costs, and identifies budget anomalies for agent sessions",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "license": "MIT"
+}
