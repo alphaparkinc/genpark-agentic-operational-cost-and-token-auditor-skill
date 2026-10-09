@@ -1,0 +1,1 @@
+# genpark-agentic-operational-cost-and-token-auditor-skill\n\nTracks token consumption, calculates exact cloud costs, and identifies budget anomalies for agent sessions.\n\n100% Python Standard Library implementation with zero external dependencies.
